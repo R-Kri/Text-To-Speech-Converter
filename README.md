@@ -30,7 +30,7 @@ A simple web-based Text-to-Speech (TTS) Converter app built using HTML, CSS, and
    ```
 2. Navigate to the project folder:
    ```sh
-   cd text-to-speech-app
+   cd Text-To-Speech-Converter
    ```
 3. Open `index.html` in a web browser.
 
